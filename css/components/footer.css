@@ -1,0 +1,19 @@
+.banner {
+  background-color: rgb(250, 250, 250);
+}
+
+.list-inline {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.list-inline > li {
+  list-style: none;
+  padding: 0px 20px;
+}
+
+.list-inline li i {
+  color: rgb(250, 250, 250);
+  font-size: 40px;
+}
